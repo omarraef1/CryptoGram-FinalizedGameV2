@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"CryptogramsGame","l":"CryptogramsGame()"},{"p":"<Unnamed>","c":"CryptogramsGame","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"CryptogramsGame","l":"readFileAndReturnQuote(String)","url":"readFileAndReturnQuote-java.lang.String-"}]
